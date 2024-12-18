@@ -1,0 +1,13 @@
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.exe
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.deps.json
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.json
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.dev.json
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.dll
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.pdb
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfoInputs.cache
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfo.cs
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.csproj.CoreCompileInputs.cache
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.dll
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.pdb
+D:\programing\orders\c#_Mykola_and_Vlad\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.genruntimeconfig.cache
